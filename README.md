@@ -1,2 +1,2 @@
-# Augumented-Reality-Web-SS
-Run by directly pasting main.html in codepen.io
+# Augumented-Reality-Web
+Augument sofa and Chair on Hiro and kanji marker respectively
